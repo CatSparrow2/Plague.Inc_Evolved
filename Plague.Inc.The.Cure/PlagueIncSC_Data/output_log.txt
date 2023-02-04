@@ -1,0 +1,190 @@
+Initialize engine version: 5.5.5p2 (371251174a02)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 27.21.14.6140]
+    Renderer: NVIDIA GeForce GTX 1070 Ti
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.141 seconds
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: D:\Games\Plague Inc Evolved v1.18.1\PlagueIncSC_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 13.077700 ms
+INITIALISE: English
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Number imported: 8211
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Data/Languages/en Line: 1 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 2 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 4716 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 4753 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 6481 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 8088 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 8089 - non-whitespace/newlines outside of tag
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EVENT MANAGER CREATED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TECH: Tech Tree has no disease
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TECH: Tech Tree has no disease
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TECH: Tech Tree has no disease
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GlobalConditionDragPanelADD COLLAPSE DELEGATE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LocalConditionDragPanelADD COLLAPSE DELEGATE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OutcomesDragPanelADD COLLAPSE DELEGATE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System Info:
+Plague Inc. Evolved Scenario Creator Version 1.1.10
+OS: Windows 10  (10.0.0) 64bit
+Processor: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz Count: 6
+Graphics: 7042/NVIDIA GeForce GTX 1070 Ti/NVIDIA/Direct3D 9.0c [nvldumd.dll 27.21.14.6140]/3072/-1 Shader: 30
+Memory: system - 16346 graphics - 3072
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 28ac -> priority: 1 
