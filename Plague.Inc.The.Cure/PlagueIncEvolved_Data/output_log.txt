@@ -1,0 +1,1946 @@
+Initialize engine version: 5.5.5p2 (371251174a02)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 26.21.14.4587]
+    Renderer: NVIDIA GeForce GTX 1070 Ti
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Vectrosity.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Vectrosity.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\SuperSplines.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\SuperSplines.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\ProMouseDll.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\ProMouseDll.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\MouseLibWin.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\MouseLibWin.dll into Unity Child Domain
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Flow.dll (this message is harmless)
+Loading D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Flow.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on LineManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 383)
+
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'ReanimateZombies') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Transmission') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Symptoms') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Ablities') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Overview') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Exit') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_WorldCure') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+WARNING: Shader Unsupported: 'Vacuum/Flow/No_Base/Flow_BumpSpecular' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Vacuum/Flow/No_Base/Flow_BumpSpecular' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Vacuum/Flow/No_Base/Flow_BumpSpecular' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Vacuum/Flow/No_Base/Flow_BumpSpecular' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/NoiseAndGrainDX11' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/NoiseAndGrainDX11' - Setting to default shader.
+UnloadTime: 4.376800 ms
+/HS/  PlagueExternalMP Plugin Handshake [9292]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+/HS/  PlagueExternalCoop Plugin Handshake [9292]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Config file not detected creating default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Number imported: 7508
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Data/Languages/ru Line: 1 - non-whitespace/newlines outside of tag
+Data/Languages/ru Line: 5748 - non-whitespace/newlines outside of tag
+Data/Languages/ru Line: 5783 - non-whitespace/newlines outside of tag
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Number imported: 7455
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Data/Languages/en Line: 1 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 5606 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 5643 - non-whitespace/newlines outside of tag
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found native resolution: 1920x1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Transmission') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Transmission') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Symptoms') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Symptoms') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Ablities') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Ablities') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Overview') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Overview') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Exit') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Exit') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_WorldCure') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_WorldCure') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+System Info:
+Plague Inc. Evolved Version 1.17.4
+OS: Windows 10  (10.0.0) 64bit
+Processor: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz Count: 6
+Graphics: 7042/NVIDIA GeForce GTX 1070 Ti/NVIDIA/Direct3D 9.0c [nvldumd.dll 26.21.14.4587]/3072/-1 Shader: 30
+Memory: system - 16346 graphics - 3072
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+//////////////////////////////////////////////
+Plague Inc: Branch[] BuildID[0]
+//////////////////////////////////////////////
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: D:\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Boo.Lang.dll (this message is harmless)
+Flow controller warning: Material index - 0 is not flow shader.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child"
+ 
+(Filename:  Line: 0)
+
+Error setting 'scenNexusPopInfected' - line: ' scen_nexus_pop_infected:' error:
+System.FormatException: Input string was not in the correct format: s.Length==0.
+  at System.Int64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Int64.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToInt64 (System.String value, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.String.System.IConvertible.ToInt64 (IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToType (System.Object value, System.Type conversionType, IFormatProvider provider, Boolean try_target_to_type) [0x00000] in <filename unknown>:0 
+  at System.Convert.ChangeType (System.Object value, System.Type conversionType) [0x00000] in <filename unknown>:0 
+  at DataImporter.UnserializeData[ScenarioInformation] (.ScenarioInformation ob, System.String txt, System.String sectionName, Boolean quiet) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error setting 'scenNexusPopDead' - line: ' scen_nexus_pop_dead:' error:
+System.FormatException: Input string was not in the correct format: s.Length==0.
+  at System.Int64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Int64.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToInt64 (System.String value, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.String.System.IConvertible.ToInt64 (IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToType (System.Object value, System.Type conversionType, IFormatProvider provider, Boolean try_target_to_type) [0x00000] in <filename unknown>:0 
+  at System.Convert.ChangeType (System.Object value, System.Type conversionType) [0x00000] in <filename unknown>:0 
+  at DataImporter.UnserializeData[ScenarioInformation] (.ScenarioInformation ob, System.String txt, System.String sectionName, Boolean quiet) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error setting 'scenNexusPopZombie' - line: ' scen_nexus_pop_zombie:' error:
+System.FormatException: Input string was not in the correct format: s.Length==0.
+  at System.Int64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Int64.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToInt64 (System.String value, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.String.System.IConvertible.ToInt64 (IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToType (System.Object value, System.Type conversionType, IFormatProvider provider, Boolean try_target_to_type) [0x00000] in <filename unknown>:0 
+  at System.Convert.ChangeType (System.Object value, System.Type conversionType) [0x00000] in <filename unknown>:0 
+  at DataImporter.UnserializeData[ScenarioInformation] (.ScenarioInformation ob, System.String txt, System.String sectionName, Boolean quiet) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error setting 'scenScoreMultiplier' - line: ' scen_score_multiplier:' error:
+System.FormatException: Invalid format.
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToSingle (System.String value, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.String.System.IConvertible.ToSingle (IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToType (System.Object value, System.Type conversionType, IFormatProvider provider, Boolean try_target_to_type) [0x00000] in <filename unknown>:0 
+  at System.Convert.ChangeType (System.Object value, System.Type conversionType) [0x00000] in <filename unknown>:0 
+  at DataImporter.UnserializeData[ScenarioInformation] (.ScenarioInformation ob, System.String txt, System.String sectionName, Boolean quiet) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InitUIHandlers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering network view:SteamNetwork (INetworkView)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+*******************************************SteamManager.Initialized:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+USER STATS RECEIVED CALLBACK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+User stats received for :76561198002416223
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_StatsVersion - 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_GamesPlayed - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_GamesCompleted - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_GamesWon - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_UnrankedGamesWon - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_DiseaseUnlockCounter - 1000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_GamesDrawn - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Disease_BACTERIA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Disease_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Disease_BIO_WEAPON - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Disease_FUNGUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Disease_PARASITE - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Wins_Disease_BACTERIA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Wins_Disease_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Wins_Disease_BIO_WEAPON - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Wins_Disease_FUNGUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Wins_Disease_PARASITE - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Rating - 1000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_HighestRating - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_BestScore_v4_0 - 999999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_BestScore_v4_1 - 999999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_BestScore_v4_2 - 999999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GamesPlayed - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GamesWon - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DiseaseUnlockCounter - 1000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Disease_BACTERIA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Disease_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Disease_BIO_WEAPON - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Disease_FUNGUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Disease_PARASITE - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Wins_Disease_BACTERIA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Wins_Disease_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Wins_Disease_BIO_WEAPON - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Wins_Disease_FUNGUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Wins_Disease_PARASITE - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Lifetime_Infected - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Lifetime_Infected - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Lifetime_Infected - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Lifetime_Killed - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Lifetime_Killed - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Lifetime_Killed - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Lifetime_Cured - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Lifetime_Cured - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Lifetime_Cured - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Lifetime_Zombies - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Lifetime_Apes - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Lifetime_DNA_Spent - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Lifetime_DNA_Spent - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Lifetime_DNA_Spent - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Lifetime_Bubbles_Popped - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Lifetime_Bubbles_Popped - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Lifetime_Bubbles_Popped - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Lifetime_Games_Won - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Lifetime_Games_Won - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Lifetime_Games_Won - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Quickest_Win - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Quickest_Win - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Quickest_Win - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Quickest_Loss - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Quickest_Loss - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Quickest_Loss - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_usa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_canada - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_greenland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_mexico - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_brazil - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_argentina - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_caribbean - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_central_america_upper - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_south_america_upper - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_bolivia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_peru - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_iceland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_spain - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_united_kingdom - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_france - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_germany - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_italy - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_poland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_ukraine - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_norway - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_sweden - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_finland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_russia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_turkey - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_balcan_states - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_baltic_states - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_madagascar - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_egypt - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_east_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_western_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_central_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_morroco - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_libya - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_sudan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_south_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_indonesia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_new_zealand - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_philipines - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_south_east_asia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_australia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_china - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_india - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_japan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_koreas - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_central_asia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_middle_east - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_pakistan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_afghanistan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_iran - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_papua - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_central_european_states - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_soudi_arabia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_kazakhstan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_iraq - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_botswana - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_zimbabwe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_angola - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Start_Country_algeria - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_usa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_canada - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_greenland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_mexico - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_brazil - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_argentina - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_caribbean - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_central_america_upper - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_south_america_upper - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_bolivia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_peru - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_iceland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_spain - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_united_kingdom - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_france - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_germany - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_italy - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_poland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_ukraine - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_norway - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_sweden - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_finland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_russia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_turkey - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_balcan_states - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_baltic_states - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_madagascar - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_egypt - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_east_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_western_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_central_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_morroco - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_libya - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_sudan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_south_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_indonesia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_new_zealand - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_philipines - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_south_east_asia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_australia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_china - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_india - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_japan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_koreas - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_central_asia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_middle_east - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_pakistan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_afghanistan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_iran - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_papua - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_central_european_states - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_soudi_arabia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_kazakhstan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_iraq - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_botswana - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_zimbabwe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_angola - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_Start_Country_algeria - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_usa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_canada - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_greenland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_mexico - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_brazil - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_argentina - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_caribbean - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_central_america_upper - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_south_america_upper - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_bolivia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_peru - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_iceland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_spain - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_united_kingdom - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_france - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_germany - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_italy - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_poland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_ukraine - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_norway - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_sweden - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_finland - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_russia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_turkey - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_balcan_states - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_baltic_states - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_madagascar - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_egypt - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_east_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_western_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_central_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_morroco - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_libya - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_sudan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_south_africa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_indonesia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_new_zealand - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_philipines - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_south_east_asia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_australia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_china - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_india - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_japan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_koreas - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_central_asia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_middle_east - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_pakistan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_afghanistan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_iran - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_papua - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_central_european_states - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_soudi_arabia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_kazakhstan - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_iraq - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_botswana - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_zimbabwe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_angola - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_Start_Country_algeria - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_arid_bonus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_humid_bonus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_rural_bonus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_urban_bonus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_resiliance - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_mutation_bonus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_mutation_limit - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_genetic_mimic - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_transmission_mutation - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_ability_mutation - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_bonus_dna - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_orange_dna - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_red_dna - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_blue_dna - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_auto_pop - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_land_bonus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_air_bonus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_sea_bonus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_border_breaker - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_home_advantage - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_devolver - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_static_devolve - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_static_symptoms - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_static_abilities - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_static_transmission - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_zday_dead_increase - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_less_z_decay - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_less_hot_decay - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_z_conversion - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_cheaper_aa - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_latent_catalyst - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_cortisol_sensitivity - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_atp_overdose - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_ion_deficit - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_ion_surge - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_adrenal_surge - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_leadership - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_viral_affinity - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_together_strong - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_call_of_the_wild - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_satanic_meditation - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_demonic_engineering - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_undercover_vamp - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_more_with_less - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_dna_frenzy - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_longer_life - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_spoils_of_war - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_rage_syndrome - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_blood_lust - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_feeding_frenzy - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_migration - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_gliding - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_jet_stream - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_desperation - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_GENE_hard_landing - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_hydrophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_xerophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_urbophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_rurophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_peniaphobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_plutophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_frigophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_calophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_benign_infection - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_safe_house - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_GENE_unstable_inception - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_hydrophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_xerophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_urbophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_rurophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_peniaphobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_plutophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_frigophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_calophobe - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_benign_infection - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_safe_house - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_GENE_unstable_inception - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_BACTERIA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_FUNGUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_PARASITE - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_PRION - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_NANO_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_BIO_WEAPON - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_NEURAX - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_NECROA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_SIMIAN_FLU - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_DISEASE_VAMPIRE - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_BACTERIA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_FUNGUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_PARASITE - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_PRION - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_NANO_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_BIO_WEAPON - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_NEURAX - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_NECROA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_VS_DISEASE_SIMIAN_FLU - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_BACTERIA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_FUNGUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_PARASITE - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_PRION - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_NANO_VIRUS - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_BIO_WEAPON - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_NEURAX - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_NECROA - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: MP_Coop_DISEASE_SIMIAN_FLU - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_black_death - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_created_equal - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_global_warming - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_golden_age - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_ice_age - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_mirror_earth - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_pirate_plague - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_shut_down_everything - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_smallpox - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_sovereign_default - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_swine_flu - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_volcanic_ash - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_who_cares - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_xenophobia - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_artificial_organs - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_frozen_virus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_nipah_virus - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_unknown_origin - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_christmas_spirit - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GET STAT FIELD: SP_Scenario_teleportation - 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RESET MP STATS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CHECKING UNLOCKS FOR STEAM PLAYER: 76561198002416223
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: BACTERIA val: -1 -> no mega achievement
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: BACTERIA val: -1 -> no normal cheats
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: BACTERIA val: -1 -> no brutal cheats
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All scenarios achievement failed: mst complete artificial_organs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully saved stats to the server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CLOUD: Couldn't read "meta.dat", file does not exist
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CLOUD: Could not load cloud data - meta.dat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 33689 unused Assets to reduce memory usage. Loaded Objects now: 117132.
+Total: 106.145096 ms (FindLiveObjects: 7.241100 ms CreateObjectMapping: 6.864200 ms MarkObjects: 57.279697 ms  DeleteObjects: 34.759499 ms)
+
+Set Active: local: FPS_60 options FPS_60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5dd4 -> priority: 1 
+CNetworkSteam.OnTerminate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
